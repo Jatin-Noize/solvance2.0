@@ -50,7 +50,7 @@
 //     if (inView) {
 //       controls.start("visible");
 //     } else {
-//       controls.start("exit");
+//       controls.stazxccrt("exit");
 //     }
 //   }, [controls, inView]);
 
